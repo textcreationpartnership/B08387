@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraignment and tryal of the coach-man and foot-boy, on Friday last the 13th. of this present December, 1661.  at the Sessions-House in the Old-Bailey, who murthered their royal master the Prince of Transilvania, as he was asleep in his coach near Rochester.  Being a perfect and full account of their peaching each other at their examinations before the Lord Mayor, Lord Chief Justice, and the rest of the honourable court.  The manner how they were brought in guilty by the jury; with an order thereupon for their being conveyed to Maid-stone in Kent, and the desires of John Jacob to the court thereupon.  Together with the trial and condemnation of the 2 souldiers that killed Mr. Grouster the brickler in turn-againlane : the manner of their first quarreling, how they slew him there flight thereupon; and the taking of them afterwards and committing them to Newgate, who on Saturday last vvere both condemned to be hanged for the said murther.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08387</idno>
+            <idno type="STC">Wing A3747A</idno>
+            <idno type="STC">ESTC R172509</idno>
+            <idno type="EEBO-CITATION">64550885</idno>
+            <idno type="OCLC">ocm 64550885</idno>
+            <idno type="VID">184333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184333)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2858:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraignment and tryal of the coach-man and foot-boy, on Friday last the 13th. of this present December, 1661.  at the Sessions-House in the Old-Bailey, who murthered their royal master the Prince of Transilvania, as he was asleep in his coach near Rochester.  Being a perfect and full account of their peaching each other at their examinations before the Lord Mayor, Lord Chief Justice, and the rest of the honourable court.  The manner how they were brought in guilty by the jury; with an order thereupon for their being conveyed to Maid-stone in Kent, and the desires of John Jacob to the court thereupon.  Together with the trial and condemnation of the 2 souldiers that killed Mr. Grouster the brickler in turn-againlane : the manner of their first quarreling, how they slew him there flight thereupon; and the taking of them afterwards and committing them to Newgate, who on Saturday last vvere both condemned to be hanged for the said murther.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jacob, John.</term>
+               <term>Grouster, --  Mr.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Trials (Murder) --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184333:1"/>
+            <pb facs="tcp:184333:1" rendition="simple:additions"/>
+            <p>THE Arraignment AND TRYAL OF The Coach-Man and Foot-Boy, on Friday laſt, the 13th. of this preſent <hi>December,</hi> 1661. at the <hi>Seſſions-Houſe</hi> in the <hi>Old-Bailey,</hi> who murthered their Royal Maſter the Prince of <hi>Tranſilvania,</hi> as he was aſleep in his Coach, near <hi>Rocheſter.</hi>
+            </p>
+            <p>
+               <hi>Being a perfect and full account of</hi> Their peaching each other at their Examination be<g ref="char:EOLhyphen"/>fore the Lord Mayor, Lord Chief Juſtice, and the reſt of the Honourable Court. The manner how they were brought in Guilty by the Jury; with an Order thereupon for their being conveyed to <hi>Maid<g ref="char:EOLhyphen"/>ſtone</hi> in <hi>Kent,</hi> and the Deſires of <hi>John Jacob</hi> to the Court thereupon.</p>
+            <p>TOGETHER With the Trial and Condemnation of the 2 Souldiers that killed Mr. <hi>Grouſter</hi> the Brickler in <hi>Turn-again-lane:</hi> The manner of their firſt quarreling, how they ſlew him, there flight thereupon; and the taking of them afterwards and committing them to <hi>Newgate,</hi> who on <hi>Saturday</hi> laſt vvere both Condemned to be Hanged for the ſaid Murther.</p>
+            <p>
+               <hi>London,</hi> Printed by R. W. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184333:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:184333:2"/>
+            <head>An Impartial, Perfect, and True Account of The Examination and Confeſſion of the Coach-man and Foot-Boy at their Arraignment and Trial at the Seſſions-Houſe in the Old-Bailey on Friday laſt, the 13th of this preſent December, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Urther is a crying ſin, that calls aloud for Vengeance, and will never ceaſe till it be heard; And although Revenge be not executed upon the Authors thereof pre<g ref="char:EOLhyphen"/>ſently, at laſt it lights heavy on them; for innocent Blood will never be hid, although never ſo ſecretly committed, which doth plainly appear by <hi>Iohn Iacob</hi> the <hi>Iewiſh</hi> Coach-man, and the Foot-Boy, (both Servants to the Prince of <hi>Tranſilvania</hi>) who conſulted together to murther their Royal Maſter when they had him in a private place, where they ima<g ref="char:EOLhyphen"/>gined none might eſpy them; But the All-ſeeing Eye
+<pb n="4" facs="tcp:184333:3"/>of God they could not eſcape, whoſe Bloody action was open to him, though hid in obſcurity for a time from the World, neither did it long ſo continue; for being not contented with the Wealth they had taken from him after he was murthered, coming up to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to ſell ſome of his Apparel, a Hanger, and a Watch, [as the Witneſſes teſtified in the <hi>Old-Bailey</hi>] they were apprehended and committed to Newgate, where they remained till Seſsions in order to their Trial: And on <hi>Friday</hi> laſt the 13th of this preſent <hi>December,</hi> they were both brought from thence to the Seſsions houſe in the Old Bailey, there to anſwer for what they had done, and being brought to the Bar before that Honourable Court, the Lord Mayor asked the Coachman, <hi>Wha mo<g ref="char:EOLhyphen"/>ved him to do that Barbarous deed, and whether the Boy was as chief an Agent as he, or drawn thereto by his perſwaſion.</hi> To which he replied, <hi>That his intent was not to kill him, or to do him any harm, onely when he was ſleeping to take ſome money from him, which he was in Arrears, knowing that then he had great ſtore, and that he intended to take no more then was due to him, which was about ſome nine pound, but ſeeing him ſtir and begin to awake when he was about it, and fearing his diſpleaſure, he ſaid he knew not what to do, being heartily ſorry for what was done.</hi> The Court told him. Not the ſtirring of his Maſter, or fear of his Diſpleaſure he minded, but a bloody intent to <hi>murther</hi> him for what Riches he had then in poſſeſsion, asking him, <hi>Whether he was guilty, or not guilty?</hi> He made an<g ref="char:EOLhyphen"/>ſwer, That he was not guilty of Wilful Murther, for that he was reſiſted, and perhaps he not ſlain him, ſaid he might have ſuffered himſelf for offering ſuch an at<g ref="char:EOLhyphen"/>tempt when he was aſleep.</p>
+            <pb n="5" facs="tcp:184333:3"/>
+            <p> The Foot Boy ſtanding at the Bar all this while, did ſeem to be very attentive and obſerved the Coachman all the while he was ſpeaking, whereupon the Lord Chief Juſtice began thus to examine him:</p>
+            <p>
+               <hi>Sirrah,</hi> ſaid he, <hi>did</hi> John Jacob, <hi>priſoner at the Bar, tell you he would take money from your Maſter when was a<g ref="char:EOLhyphen"/>ſleep, or did you know that he was indebaed to him for Wa<g ref="char:EOLhyphen"/>ges, as he ſayes.</hi>
+            </p>
+            <p>My Lord, replied he, [weeping exceedingly] I knew not of any money my Maſter owed him: But when we came within ſeven or eight miles of <hi>Roche<g ref="char:EOLhyphen"/>ſter,</hi> he asked me how far we had thither, and ſo near as I could (having been there once before) I told him; and as he was fitting in the Coach Box and dri<g ref="char:EOLhyphen"/>ving forwards, he turn'd him about, and beckned me to him, I going then by the Coach ſide, and when I came to him he ſtooped down, the Horſes drawing but eaſi<g ref="char:EOLhyphen"/>ly, and bid me tell him when he was aſleep, for he uſed to lie along and ſleep in the Coach oftentimes, eſpeci<g ref="char:EOLhyphen"/>ally when he went far; and about an hour after he had ſpoken to me I told him, not knowing the reaſon why he asked me, thinking he would offer no injury in the leaſt to him; he asked me again, <hi>If I were ſure he was aſleep,</hi> and I ſaid yes: Whereupon he came down from the Coach Box to the Boot, and looking upon him a little while, he drew out of his Pocket a Knife, a long black handle Knife, and immediately ſtabbed him in two or three places, at which I was greatly amazed, wondring much thereat, asking what he intended to <hi>do. Here the Boy ſeemed to be in a pauſe, holding down his head, ſeeming extream penſive, not uttering a word more; till at last he was commanded to ſay on further,</hi> which he did in this manner:</p>
+            <pb n="6" facs="tcp:184333:4"/>
+            <p> Then, my Lord, he came to me, and took hold of me ſaying, If I would not help his body out of the Coach, he would kill me, which with great fear I did: Whereupon the Court asked the Boy, <hi>If he gave him a<g ref="char:EOLhyphen"/>ny money?</hi> He told them, That he promiſed him 100 pounds to conceal it, but he ſaid he would not, and a<g ref="char:EOLhyphen"/>gain thereupon he threatned to kill him, forcing him to take the money. Upon which, the Lord Mayor made anſwer, that <hi>it was the most inhumaneſt and barbarous Act that ever was committed,</hi> asking the Coachman, <hi>whether the Boy was privy to his intent.</hi> He anſwered <hi>No,</hi> but ſaid he took the money when he gave it him. Then the Court asked him again, <hi>whether he was Guilty, or not Guilty,</hi> to which he replied as formerly, <hi>That he was not Guilty of wilful Murther.</hi> The Court told him they thought it would not be found ſo, and thereupon the Jury went upon them, who brought them in both <hi>guil<g ref="char:EOLhyphen"/>ty:</hi> But the Prudence of the Judicious Court in doing of Juſtice was ſuch, after the Jury had gave their <hi>vir<g ref="char:EOLhyphen"/>dit</hi> in, that they thought it not meet for them to ſuffer here, but where they had done the Fact, therefore Con<g ref="char:EOLhyphen"/>demned them not, but <hi>ordered</hi> them to be ſent to <hi>Maid<g ref="char:EOLhyphen"/>ſtone</hi> Sizes in <hi>Kent,</hi> there to be further Tried, and re<g ref="char:EOLhyphen"/>ceive reward for what they had done. Since which time the Coachman hath taken all upon himſelf, being willing to ſave the Youths life (if he can) who is about 13 years of age, who in all likelihood by <hi>John Jacobs</hi> words, was but inſtrumental to the <hi>murther;</hi> yet not<g ref="char:EOLhyphen"/>withſtanding that, Juſtice muſt be ſatisfied with Real and Impartial Truth, which they are both to anſwer at the next Sizes in <hi>Maid-ſtone,</hi> which when the Coach<g ref="char:EOLhyphen"/>man <hi>heard,</hi> he <hi>pleaded</hi> at the Bar, that he had a Letter
+<pb n="7" facs="tcp:184333:4"/>from His Majeſty <hi>Alphonſo</hi> King of <hi>Portugal,</hi> in order to be <hi>tranſported</hi> thither, there to be Tried; but being asked to ſhew it, ſaid he had loſt it, being very unwil<g ref="char:EOLhyphen"/>ling to go to <hi>Maid-ſtone:</hi> The cauſe whereof (as yet) is onely known to himſelf, but perhaps Time may tell it to others. After this, they were both returned unto <hi>Newgate,</hi> where they remained that night. The next morning, being</p>
+            <div type="part">
+               <head>
+                  <hi>Saturday, December</hi> the 14<hi>th.</hi>
+               </head>
+               <p>The two Souldiers that was taken on Lord Mayors Day laſt in <hi>Turn-again-lane,</hi> was brought from <hi>New<g ref="char:EOLhyphen"/>gate</hi> again to the Seſſions Houſe in the <hi>Old-Bailey,</hi> and there found Guilty by the Jury of Wilful Murther; the manner whereof was thus:</p>
+               <p>On the Day after <hi>Simon</hi> and <hi>Judes</hi> [commonly cal<g ref="char:EOLhyphen"/>led Lords Mayors Day] one Mr. <hi>Grouſter</hi> a Brick-laier living in <hi>Sea Coal Lane,</hi> came to a Pewterers houſe, an acquaintance of his, that ſold Drink, to be merry, ha<g ref="char:EOLhyphen"/>ving appointed him to come in the Evening, and each of them to beat a Drum together, for they both took delight in that exerciſe, and would often uſe it; where they had not long continued, but 4. Souldiers being in the houſe, and hearing the ſound of the Drum (two of them lodging there, and the other two at the ſign of the <hi>Hand and Hammer,</hi> near the ſame houſe) were very ea<g ref="char:EOLhyphen"/>ger to go up the ſtairs, which one of them preſently did. Mr. <hi>Grouſter</hi> ſeeing him come up ſo boldly, de<g ref="char:EOLhyphen"/>manded, <hi>What he would have?</hi> telling him he would willingly accept of his company, and the reſt of his fel<g ref="char:EOLhyphen"/>lowes that were below, provided he and they would be civil. Upon which, he replied, <hi>He would come up, and ſtay too; what was that to him.</hi> Mr. <hi>Grouſter</hi> told
+<pb n="8" facs="tcp:184333:5"/>him it was to him, and he ſhould ſtay no longer, ar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereupon turned him down the ſtairs, and when <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had done, he came up again and ſhut the Chambe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> door. The Souldier being down, told the reſt of h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Comrades what had hapned, whereupon after ſom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Diſcourſe amongſt themſelves, which they were take<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> notice of to have, they altogether aſcended the ſtair<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with their Swords drawn, and knocking at the door<g ref="char:punc">▪</g> Mr. <hi>Grouſter</hi> the Brick-laier came and opened it, whom preſently they all ſtruck at, but one of them hit him ſo violent a blow on the Head with his Hanger, that he fel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down upon the floor, and died immediately, which the reſt ſeeing preſently fled, two whereof were taken within half an hour after the murther was done, com<g ref="char:EOLhyphen"/>ming down the ſame Lane, who were both committed to Newgate by the Right Honourable the Lord May<g ref="char:EOLhyphen"/>or, where they remained till Seſſions, and being found Guilty by the Jury on <hi>Saturday</hi> laſt of Wilful Mur<g ref="char:EOLhyphen"/>ther, they were both Condemned to be hanged at <hi>Ty<g ref="char:EOLhyphen"/>burn</hi> for the Fact.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184333:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
